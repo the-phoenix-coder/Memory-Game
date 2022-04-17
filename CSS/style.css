@@ -1,0 +1,15 @@
+h2 {
+	width: fit-content;
+	margin: 20px auto
+}
+
+.boxs-container {
+	width: 400px;
+	height: 300px;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 5px;
+	cursor: pointer;
+	margin-inline: auto;
+	justify-content: center;
+}
